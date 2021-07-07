@@ -1,10 +1,20 @@
-# stock-market
-Simulador de mercado de ações. O aluno deverá criar um robô em R ou python para operar neste mercado virtual.
+# bweb
+Simulador para exercício de teste AB e valor adicionado ao cliente.
 
-## Para testar 
+## Como rodar?
 
-- "exemplo_de_uso.ipynb" contém exemplo de operações em python, incluindo um loop que realiza operações de compra/ venda de acordo com o resultado de cruzamentos de médias móveis.
+Basta executar o notebook "bweb-client-example.ipynb". Por default, este notebook está com um usuário 'dummy' (token 'token_dummy_001'). Favor trocar pelo token do seu grupo.
 
-- "exemplo_uso_R.R" contém chamadas da API pelo R.
+Alguns pontos relevantes adicionais:
+
+- Considerar margem das vendas de 50% (lucro sobre a receita)
+- Na primeira vez que baterem na API, possivelmente irá demorar uns segundos. Isso é a máquina subindo. Depois, fica mais fácil.
+- Na sala, vimos como calcular curva de benefício com classificadores. Neste caso, temos valores contínuos. Se tiverem alguma dificuldade para portar as ideias de uma situação para a outra, podem simplificar da maneira que acharem mais adequado.
+
+## Avaliação
+
+- Documentação, processo decisório do teste realizado
+- Rigor do teste e análise, dada a matéria exposta
+- Qualidade Exploração dos Dados
 
 Qualquer dúvida, não hesitem em contactar.
