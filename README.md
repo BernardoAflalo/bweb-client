@@ -1,3 +1,7 @@
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/bweb-client/blob/main/bweb-client-example.ipynb)
+
 # bweb
 Simulador para exercício de teste AB e valor adicionado ao cliente.
 
